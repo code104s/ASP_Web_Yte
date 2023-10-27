@@ -29,3 +29,4 @@ tk: Benhnhan: mk 123456
 tk: Bacsy: mk 123456
 tk: admin: mk 123456
 
+https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net451-developer-pack-offline-installer?fbclid=IwAR1UvNpmqbzOuhiDRvNOt38ugPMJtGYDSnewsb21u_eTHIjyhoXk1d7UXTQ
